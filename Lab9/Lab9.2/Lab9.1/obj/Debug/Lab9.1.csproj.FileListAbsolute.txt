@@ -1,0 +1,7 @@
+C:\Users\Fox\source\repos\LABS2\Lab9.1\Lab9.1\bin\Debug\Lab9.1.exe.config
+C:\Users\Fox\source\repos\LABS2\Lab9.1\Lab9.1\bin\Debug\Lab9.1.exe
+C:\Users\Fox\source\repos\LABS2\Lab9.1\Lab9.1\bin\Debug\Lab9.1.pdb
+C:\Users\Fox\source\repos\LABS2\Lab9.1\Lab9.1\obj\Debug\Lab9.1.csproj.AssemblyReference.cache
+C:\Users\Fox\source\repos\LABS2\Lab9.1\Lab9.1\obj\Debug\Lab9.1.csproj.CoreCompileInputs.cache
+C:\Users\Fox\source\repos\LABS2\Lab9.1\Lab9.1\obj\Debug\Lab9.1.exe
+C:\Users\Fox\source\repos\LABS2\Lab9.1\Lab9.1\obj\Debug\Lab9.1.pdb

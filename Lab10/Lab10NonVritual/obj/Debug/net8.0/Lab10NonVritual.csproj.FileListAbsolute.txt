@@ -1,0 +1,14 @@
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\bin\Debug\net8.0\Lab10NonVritual.exe
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\bin\Debug\net8.0\Lab10NonVritual.deps.json
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\bin\Debug\net8.0\Lab10NonVritual.runtimeconfig.json
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\bin\Debug\net8.0\Lab10NonVritual.dll
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\bin\Debug\net8.0\Lab10NonVritual.pdb
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\Lab10NonVritual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\Lab10NonVritual.AssemblyInfoInputs.cache
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\Lab10NonVritual.AssemblyInfo.cs
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\Lab10NonVritual.csproj.CoreCompileInputs.cache
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\Lab10NonVritual.dll
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\refint\Lab10NonVritual.dll
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\Lab10NonVritual.pdb
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\Lab10NonVritual.genruntimeconfig.cache
+C:\Users\Fox\source\repos\LABS2\Lab10\Lab10NonVritual\obj\Debug\net8.0\ref\Lab10NonVritual.dll

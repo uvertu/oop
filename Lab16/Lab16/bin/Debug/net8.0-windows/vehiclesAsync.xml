@@ -1,0 +1,4998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vehicle xsi:type="Car">
+    <Speed>53</Speed>
+    <Year>2001</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>74</Speed>
+    <Year>2020</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>70</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>71</Speed>
+    <Year>2007</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>59</Speed>
+    <Year>2011</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>83</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>12</Speed>
+    <Year>2012</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>195</Speed>
+    <Year>2019</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>177</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>36</Speed>
+    <Year>2023</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>160</Speed>
+    <Year>2002</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>105</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>55</Speed>
+    <Year>2005</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>53</Speed>
+    <Year>2019</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>119</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>56</Speed>
+    <Year>2000</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>85</Speed>
+    <Year>2016</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>71</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>100</Speed>
+    <Year>2015</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>111</Speed>
+    <Year>2000</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>10</Speed>
+    <Year>2000</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>179</Speed>
+    <Year>2021</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>12</Speed>
+    <Year>2012</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>185</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>145</Speed>
+    <Year>2004</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>120</Speed>
+    <Year>2023</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>86</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>189</Speed>
+    <Year>2019</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>187</Speed>
+    <Year>2010</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>110</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>61</Speed>
+    <Year>2024</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>122</Speed>
+    <Year>2009</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>89</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>91</Speed>
+    <Year>2004</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>85</Speed>
+    <Year>2012</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>89</Speed>
+    <Year>2014</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>85</Speed>
+    <Year>2011</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>187</Speed>
+    <Year>2018</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>74</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>81</Speed>
+    <Year>2019</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>5</Speed>
+    <Year>2009</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>23</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>18</Speed>
+    <Year>2003</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>37</Speed>
+    <Year>2019</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>132</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>102</Speed>
+    <Year>2016</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>75</Speed>
+    <Year>2022</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>134</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>6</Speed>
+    <Year>2000</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>193</Speed>
+    <Year>2014</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>142</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>104</Speed>
+    <Year>2009</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>147</Speed>
+    <Year>2012</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>122</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>63</Speed>
+    <Year>2009</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>141</Speed>
+    <Year>2024</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>74</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>171</Speed>
+    <Year>2021</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>9</Speed>
+    <Year>2011</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>88</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>72</Speed>
+    <Year>2012</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>173</Speed>
+    <Year>2022</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>14</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>187</Speed>
+    <Year>2011</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>122</Speed>
+    <Year>2019</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>133</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>193</Speed>
+    <Year>2011</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>57</Speed>
+    <Year>2008</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>60</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>77</Speed>
+    <Year>2009</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>163</Speed>
+    <Year>2012</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>115</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>49</Speed>
+    <Year>2010</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>165</Speed>
+    <Year>2002</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>60</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>176</Speed>
+    <Year>2012</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>92</Speed>
+    <Year>2001</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>168</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>47</Speed>
+    <Year>2016</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>57</Speed>
+    <Year>2022</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>50</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>196</Speed>
+    <Year>2005</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>147</Speed>
+    <Year>2013</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>85</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>131</Speed>
+    <Year>2023</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>62</Speed>
+    <Year>2010</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>95</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>197</Speed>
+    <Year>2004</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>176</Speed>
+    <Year>2007</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>156</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>166</Speed>
+    <Year>2023</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>18</Speed>
+    <Year>2010</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>81</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>192</Speed>
+    <Year>2021</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>146</Speed>
+    <Year>2024</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>159</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>80</Speed>
+    <Year>2000</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>102</Speed>
+    <Year>2021</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>58</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>91</Speed>
+    <Year>2022</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>199</Speed>
+    <Year>2014</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>23</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>26</Speed>
+    <Year>2016</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>170</Speed>
+    <Year>2019</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>99</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>19</Speed>
+    <Year>2012</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>15</Speed>
+    <Year>2018</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>48</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>57</Speed>
+    <Year>2007</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>39</Speed>
+    <Year>2002</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>114</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>8</Speed>
+    <Year>2020</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>17</Speed>
+    <Year>2011</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>64</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>54</Speed>
+    <Year>2016</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>34</Speed>
+    <Year>2007</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>69</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>164</Speed>
+    <Year>2023</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>41</Speed>
+    <Year>2003</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>46</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>29</Speed>
+    <Year>2015</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>64</Speed>
+    <Year>2002</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>56</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>188</Speed>
+    <Year>2024</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>191</Speed>
+    <Year>2016</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>68</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>94</Speed>
+    <Year>2003</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>186</Speed>
+    <Year>2012</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>174</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>50</Speed>
+    <Year>2013</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>86</Speed>
+    <Year>2021</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>150</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>79</Speed>
+    <Year>2007</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>107</Speed>
+    <Year>2021</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>55</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>166</Speed>
+    <Year>2000</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>148</Speed>
+    <Year>2009</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>103</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>157</Speed>
+    <Year>2011</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>159</Speed>
+    <Year>2016</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>81</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>1</Speed>
+    <Year>2012</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>188</Speed>
+    <Year>2018</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>45</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>174</Speed>
+    <Year>2007</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>83</Speed>
+    <Year>2005</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>90</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>152</Speed>
+    <Year>2014</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>38</Speed>
+    <Year>2008</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>123</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>26</Speed>
+    <Year>2009</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>177</Speed>
+    <Year>2012</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>74</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>154</Speed>
+    <Year>2009</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>182</Speed>
+    <Year>2016</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>56</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>4</Speed>
+    <Year>2000</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>48</Speed>
+    <Year>2008</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>153</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>15</Speed>
+    <Year>2014</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>79</Speed>
+    <Year>2011</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>91</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>149</Speed>
+    <Year>2008</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>8</Speed>
+    <Year>2003</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>76</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>139</Speed>
+    <Year>2015</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>99</Speed>
+    <Year>2006</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>130</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>148</Speed>
+    <Year>2012</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>80</Speed>
+    <Year>2001</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>9</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>85</Speed>
+    <Year>2001</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>11</Speed>
+    <Year>2002</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>76</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>34</Speed>
+    <Year>2023</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>147</Speed>
+    <Year>2006</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>163</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>64</Speed>
+    <Year>2013</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>197</Speed>
+    <Year>2018</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>107</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>23</Speed>
+    <Year>2021</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>79</Speed>
+    <Year>2020</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>108</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>90</Speed>
+    <Year>2008</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>9</Speed>
+    <Year>2015</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>163</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>111</Speed>
+    <Year>2021</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>155</Speed>
+    <Year>2017</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>169</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>60</Speed>
+    <Year>2024</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>135</Speed>
+    <Year>2017</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>70</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>152</Speed>
+    <Year>2014</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>177</Speed>
+    <Year>2014</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>80</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>140</Speed>
+    <Year>2004</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>192</Speed>
+    <Year>2020</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>161</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>139</Speed>
+    <Year>2016</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>71</Speed>
+    <Year>2009</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>21</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>157</Speed>
+    <Year>2004</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>194</Speed>
+    <Year>2006</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>51</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>125</Speed>
+    <Year>2002</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>195</Speed>
+    <Year>2006</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>143</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>192</Speed>
+    <Year>2003</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>192</Speed>
+    <Year>2002</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>64</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>52</Speed>
+    <Year>2003</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>183</Speed>
+    <Year>2014</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>72</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>1</Speed>
+    <Year>2014</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>131</Speed>
+    <Year>2002</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>100</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>114</Speed>
+    <Year>2022</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>153</Speed>
+    <Year>2015</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>119</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>171</Speed>
+    <Year>2011</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>55</Speed>
+    <Year>2017</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>11</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>24</Speed>
+    <Year>2007</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>13</Speed>
+    <Year>2022</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>100</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>133</Speed>
+    <Year>2011</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>30</Speed>
+    <Year>2010</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>138</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>179</Speed>
+    <Year>2014</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>71</Speed>
+    <Year>2001</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>113</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>93</Speed>
+    <Year>2010</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>11</Speed>
+    <Year>2011</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>193</Speed>
+    <Year>2011</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>196</Speed>
+    <Year>2017</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>196</Speed>
+    <Year>2002</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>161</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>182</Speed>
+    <Year>2001</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>100</Speed>
+    <Year>2006</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>116</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>169</Speed>
+    <Year>2018</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>43</Speed>
+    <Year>2008</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>196</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>167</Speed>
+    <Year>2014</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>31</Speed>
+    <Year>2021</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>68</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>90</Speed>
+    <Year>2020</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>63</Speed>
+    <Year>2019</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>99</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>189</Speed>
+    <Year>2010</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>191</Speed>
+    <Year>2008</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>150</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>35</Speed>
+    <Year>2010</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>154</Speed>
+    <Year>2009</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>16</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>132</Speed>
+    <Year>2009</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>85</Speed>
+    <Year>2002</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>155</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>176</Speed>
+    <Year>2024</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>139</Speed>
+    <Year>2008</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>70</Speed>
+    <Year>2003</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>66</Speed>
+    <Year>2009</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>25</Speed>
+    <Year>2001</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>13</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>162</Speed>
+    <Year>2019</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>147</Speed>
+    <Year>2001</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>176</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>197</Speed>
+    <Year>2007</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>151</Speed>
+    <Year>2015</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>19</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>49</Speed>
+    <Year>2023</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>188</Speed>
+    <Year>2009</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>182</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>15</Speed>
+    <Year>2008</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>69</Speed>
+    <Year>2023</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>73</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>137</Speed>
+    <Year>2017</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>175</Speed>
+    <Year>2014</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>4</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>31</Speed>
+    <Year>2003</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>90</Speed>
+    <Year>2018</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>2</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>141</Speed>
+    <Year>2015</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>164</Speed>
+    <Year>2010</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>57</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>42</Speed>
+    <Year>2015</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>58</Speed>
+    <Year>2003</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>34</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>107</Speed>
+    <Year>2023</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>111</Speed>
+    <Year>2018</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>10</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>32</Speed>
+    <Year>2013</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>54</Speed>
+    <Year>2018</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>51</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>93</Speed>
+    <Year>2023</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>152</Speed>
+    <Year>2010</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>41</Speed>
+    <Year>2000</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>97</Speed>
+    <Year>2007</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>11</Speed>
+    <Year>2008</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>154</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>78</Speed>
+    <Year>2011</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>83</Speed>
+    <Year>2006</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>83</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>171</Speed>
+    <Year>2013</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>2</Speed>
+    <Year>2017</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>16</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>182</Speed>
+    <Year>2010</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>134</Speed>
+    <Year>2002</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>147</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>59</Speed>
+    <Year>2022</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>25</Speed>
+    <Year>2006</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>43</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>28</Speed>
+    <Year>2001</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>138</Speed>
+    <Year>2001</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>66</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>9</Speed>
+    <Year>2001</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>103</Speed>
+    <Year>2019</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>29</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>173</Speed>
+    <Year>2017</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>40</Speed>
+    <Year>2000</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>77</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>148</Speed>
+    <Year>2003</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>161</Speed>
+    <Year>2016</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>108</Speed>
+    <Year>2014</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>95</Speed>
+    <Year>2018</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>181</Speed>
+    <Year>2005</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>123</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>3</Speed>
+    <Year>2003</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>74</Speed>
+    <Year>2004</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>13</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>25</Speed>
+    <Year>2008</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>49</Speed>
+    <Year>2005</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>177</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>119</Speed>
+    <Year>2007</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>145</Speed>
+    <Year>2000</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>176</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>19</Speed>
+    <Year>2017</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>155</Speed>
+    <Year>2015</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>195</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>58</Speed>
+    <Year>2011</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>51</Speed>
+    <Year>2002</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>103</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>120</Speed>
+    <Year>2022</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>147</Speed>
+    <Year>2004</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>12</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>133</Speed>
+    <Year>2018</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>30</Speed>
+    <Year>2019</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>117</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>114</Speed>
+    <Year>2023</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>56</Speed>
+    <Year>2014</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>50</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>146</Speed>
+    <Year>2002</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>104</Speed>
+    <Year>2000</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>132</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>158</Speed>
+    <Year>2001</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>164</Speed>
+    <Year>2023</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>109</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>192</Speed>
+    <Year>2018</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>55</Speed>
+    <Year>2008</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>53</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>23</Speed>
+    <Year>2008</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>125</Speed>
+    <Year>2009</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>151</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>47</Speed>
+    <Year>2022</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>2</Speed>
+    <Year>2023</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>118</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>158</Speed>
+    <Year>2008</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>61</Speed>
+    <Year>2007</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>75</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>122</Speed>
+    <Year>2015</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>83</Speed>
+    <Year>2018</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>73</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>113</Speed>
+    <Year>2008</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>93</Speed>
+    <Year>2013</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>54</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>99</Speed>
+    <Year>2005</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>2</Speed>
+    <Year>2023</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>126</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>5</Speed>
+    <Year>2016</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>34</Speed>
+    <Year>2005</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>110</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>113</Speed>
+    <Year>2005</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>86</Speed>
+    <Year>2017</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>131</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>88</Speed>
+    <Year>2003</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>93</Speed>
+    <Year>2004</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>138</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>64</Speed>
+    <Year>2001</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>142</Speed>
+    <Year>2011</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>117</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>66</Speed>
+    <Year>2006</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>43</Speed>
+    <Year>2010</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>184</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>32</Speed>
+    <Year>2010</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>131</Speed>
+    <Year>2007</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>4</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>196</Speed>
+    <Year>2017</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>6</Speed>
+    <Year>2009</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>194</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>6</Speed>
+    <Year>2008</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>191</Speed>
+    <Year>2012</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>167</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>142</Speed>
+    <Year>2022</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>85</Speed>
+    <Year>2002</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>93</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>173</Speed>
+    <Year>2010</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>88</Speed>
+    <Year>2013</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>115</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>76</Speed>
+    <Year>2012</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>168</Speed>
+    <Year>2022</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>47</Speed>
+    <Year>2000</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>73</Speed>
+    <Year>2019</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>190</Speed>
+    <Year>2009</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>113</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>45</Speed>
+    <Year>2008</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>161</Speed>
+    <Year>2003</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>104</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>7</Speed>
+    <Year>2022</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>28</Speed>
+    <Year>2015</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>14</Speed>
+    <Year>2000</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>130</Speed>
+    <Year>2003</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>139</Speed>
+    <Year>2013</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>188</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>23</Speed>
+    <Year>2021</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>125</Speed>
+    <Year>2001</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>136</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>197</Speed>
+    <Year>2002</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>124</Speed>
+    <Year>2012</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>129</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>165</Speed>
+    <Year>2024</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>82</Speed>
+    <Year>2017</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>120</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>76</Speed>
+    <Year>2017</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>100</Speed>
+    <Year>2007</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>34</Speed>
+    <Year>2014</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>196</Speed>
+    <Year>2005</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>65</Speed>
+    <Year>2013</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>198</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>63</Speed>
+    <Year>2002</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>29</Speed>
+    <Year>2012</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>82</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>83</Speed>
+    <Year>2003</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>86</Speed>
+    <Year>2017</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>7</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>106</Speed>
+    <Year>2017</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>149</Speed>
+    <Year>2011</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>37</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>144</Speed>
+    <Year>2006</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>27</Speed>
+    <Year>2007</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>128</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>73</Speed>
+    <Year>2013</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>150</Speed>
+    <Year>2021</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>57</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>81</Speed>
+    <Year>2011</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>161</Speed>
+    <Year>2006</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>48</Speed>
+    <Year>2000</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>95</Speed>
+    <Year>2006</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>25</Speed>
+    <Year>2004</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>95</Speed>
+    <Year>2014</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>18</Speed>
+    <Year>2021</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>133</Speed>
+    <Year>2020</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>84</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>72</Speed>
+    <Year>2011</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>144</Speed>
+    <Year>2005</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>57</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>49</Speed>
+    <Year>2011</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>151</Speed>
+    <Year>2022</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>107</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>92</Speed>
+    <Year>2024</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>12</Speed>
+    <Year>2000</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>174</Speed>
+    <Year>2003</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>154</Speed>
+    <Year>2008</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>20</Speed>
+    <Year>2001</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>101</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>105</Speed>
+    <Year>2020</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>196</Speed>
+    <Year>2020</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>13</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>113</Speed>
+    <Year>2017</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>29</Speed>
+    <Year>2017</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>68</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>136</Speed>
+    <Year>2019</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>60</Speed>
+    <Year>2023</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>33</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>15</Speed>
+    <Year>2020</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>125</Speed>
+    <Year>2024</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>27</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>106</Speed>
+    <Year>2021</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>99</Speed>
+    <Year>2002</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>169</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>130</Speed>
+    <Year>2020</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>154</Speed>
+    <Year>2014</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>163</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>6</Speed>
+    <Year>2021</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>28</Speed>
+    <Year>2010</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>86</Speed>
+    <Year>2011</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>50</Speed>
+    <Year>2021</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>102</Speed>
+    <Year>2013</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>56</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>3</Speed>
+    <Year>2018</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>109</Speed>
+    <Year>2016</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>103</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>85</Speed>
+    <Year>2019</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>163</Speed>
+    <Year>2011</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>169</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>28</Speed>
+    <Year>2017</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>155</Speed>
+    <Year>2002</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>9</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>135</Speed>
+    <Year>2022</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>92</Speed>
+    <Year>2000</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>61</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>1</Speed>
+    <Year>2023</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>108</Speed>
+    <Year>2008</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>133</Speed>
+    <Year>2014</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>93</Speed>
+    <Year>2000</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>168</Speed>
+    <Year>2021</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>75</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>5</Speed>
+    <Year>2003</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>60</Speed>
+    <Year>2015</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>108</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>184</Speed>
+    <Year>2000</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>183</Speed>
+    <Year>2019</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>53</Speed>
+    <Year>2003</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>6</Speed>
+    <Year>2011</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>48</Speed>
+    <Year>2024</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>11</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>191</Speed>
+    <Year>2000</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>95</Speed>
+    <Year>2021</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>15</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>26</Speed>
+    <Year>2012</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>58</Speed>
+    <Year>2020</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>186</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>190</Speed>
+    <Year>2023</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>64</Speed>
+    <Year>2004</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>155</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>131</Speed>
+    <Year>2024</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>54</Speed>
+    <Year>2016</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>96</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>99</Speed>
+    <Year>2006</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>13</Speed>
+    <Year>2003</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>111</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>113</Speed>
+    <Year>2013</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>154</Speed>
+    <Year>2018</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>75</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>95</Speed>
+    <Year>2007</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>187</Speed>
+    <Year>2016</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>198</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>146</Speed>
+    <Year>2012</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>113</Speed>
+    <Year>2012</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>81</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>41</Speed>
+    <Year>2010</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>196</Speed>
+    <Year>2013</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>85</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>18</Speed>
+    <Year>2007</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>90</Speed>
+    <Year>2005</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>172</Speed>
+    <Year>2014</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>194</Speed>
+    <Year>2012</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>198</Speed>
+    <Year>2006</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>31</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>129</Speed>
+    <Year>2004</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>88</Speed>
+    <Year>2004</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>50</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>170</Speed>
+    <Year>2024</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>66</Speed>
+    <Year>2004</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>29</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>16</Speed>
+    <Year>2004</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>125</Speed>
+    <Year>2008</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>62</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>126</Speed>
+    <Year>2011</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>27</Speed>
+    <Year>2004</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>165</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>61</Speed>
+    <Year>2004</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>168</Speed>
+    <Year>2012</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>121</Speed>
+    <Year>2011</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>142</Speed>
+    <Year>2019</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>147</Speed>
+    <Year>2008</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>192</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>197</Speed>
+    <Year>2018</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>105</Speed>
+    <Year>2012</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>55</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>45</Speed>
+    <Year>2014</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>180</Speed>
+    <Year>2018</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>64</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>82</Speed>
+    <Year>2000</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>3</Speed>
+    <Year>2015</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>2</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>16</Speed>
+    <Year>2002</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>176</Speed>
+    <Year>2002</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>152</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>13</Speed>
+    <Year>2009</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>89</Speed>
+    <Year>2009</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>46</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>109</Speed>
+    <Year>2023</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>73</Speed>
+    <Year>2004</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>94</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>49</Speed>
+    <Year>2015</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>152</Speed>
+    <Year>2024</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>26</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>183</Speed>
+    <Year>2006</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>149</Speed>
+    <Year>2015</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>96</Speed>
+    <Year>2003</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>101</Speed>
+    <Year>2008</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>102</Speed>
+    <Year>2012</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>119</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>7</Speed>
+    <Year>2021</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>137</Speed>
+    <Year>2015</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>186</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>196</Speed>
+    <Year>2011</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>136</Speed>
+    <Year>2013</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>5</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>156</Speed>
+    <Year>2004</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>169</Speed>
+    <Year>2021</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>182</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>86</Speed>
+    <Year>2018</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>57</Speed>
+    <Year>2021</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>170</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>168</Speed>
+    <Year>2020</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>169</Speed>
+    <Year>2015</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>156</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>70</Speed>
+    <Year>2017</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>111</Speed>
+    <Year>2014</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>166</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>147</Speed>
+    <Year>2010</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>168</Speed>
+    <Year>2002</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>44</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>37</Speed>
+    <Year>2007</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>177</Speed>
+    <Year>2018</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>87</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>121</Speed>
+    <Year>2005</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>6</Speed>
+    <Year>2016</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>33</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>120</Speed>
+    <Year>2001</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>17</Speed>
+    <Year>2024</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>102</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>105</Speed>
+    <Year>2002</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>126</Speed>
+    <Year>2018</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>141</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>146</Speed>
+    <Year>2015</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>191</Speed>
+    <Year>2024</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>171</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>157</Speed>
+    <Year>2021</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>60</Speed>
+    <Year>2002</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>198</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>170</Speed>
+    <Year>2016</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>155</Speed>
+    <Year>2009</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>66</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>137</Speed>
+    <Year>2023</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>119</Speed>
+    <Year>2015</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>31</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>157</Speed>
+    <Year>2012</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>191</Speed>
+    <Year>2015</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>185</Speed>
+    <Year>2011</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>136</Speed>
+    <Year>2024</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>103</Speed>
+    <Year>2008</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>89</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>90</Speed>
+    <Year>2020</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>191</Speed>
+    <Year>2016</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>163</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>177</Speed>
+    <Year>2000</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>98</Speed>
+    <Year>2009</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>142</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>165</Speed>
+    <Year>2003</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>90</Speed>
+    <Year>2010</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>183</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>175</Speed>
+    <Year>2017</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>101</Speed>
+    <Year>2023</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>122</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>33</Speed>
+    <Year>2014</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>59</Speed>
+    <Year>2018</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>14</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>77</Speed>
+    <Year>2002</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>117</Speed>
+    <Year>2020</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>114</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>101</Speed>
+    <Year>2014</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>5</Speed>
+    <Year>2001</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>112</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>18</Speed>
+    <Year>2015</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>48</Speed>
+    <Year>2010</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>56</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>46</Speed>
+    <Year>2008</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>35</Speed>
+    <Year>2003</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>90</Speed>
+    <Year>2014</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>124</Speed>
+    <Year>2005</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>96</Speed>
+    <Year>2007</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>52</Speed>
+    <Year>2014</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>29</Speed>
+    <Year>2014</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>34</Speed>
+    <Year>2003</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>103</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>56</Speed>
+    <Year>2009</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>192</Speed>
+    <Year>2011</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>115</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>94</Speed>
+    <Year>2005</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>107</Speed>
+    <Year>2013</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>100</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>9</Speed>
+    <Year>2024</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>116</Speed>
+    <Year>2013</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>70</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>103</Speed>
+    <Year>2019</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>68</Speed>
+    <Year>2022</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>135</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>99</Speed>
+    <Year>2012</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>193</Speed>
+    <Year>2023</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>198</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>97</Speed>
+    <Year>2015</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>17</Speed>
+    <Year>2018</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>161</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>151</Speed>
+    <Year>2009</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>53</Speed>
+    <Year>2022</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>176</Speed>
+    <Year>2011</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>101</Speed>
+    <Year>2019</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>197</Speed>
+    <Year>2024</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>174</Speed>
+    <Year>2003</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>82</Speed>
+    <Year>2005</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>95</Speed>
+    <Year>2021</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>58</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>62</Speed>
+    <Year>2013</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>79</Speed>
+    <Year>2002</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>6</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>34</Speed>
+    <Year>2005</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>26</Speed>
+    <Year>2007</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>52</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>147</Speed>
+    <Year>2012</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>9</Speed>
+    <Year>2018</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>2</Speed>
+    <Year>2003</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>165</Speed>
+    <Year>2006</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>152</Speed>
+    <Year>2023</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>125</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>106</Speed>
+    <Year>2022</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>177</Speed>
+    <Year>2017</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>103</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>62</Speed>
+    <Year>2022</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>133</Speed>
+    <Year>2002</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>89</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>106</Speed>
+    <Year>2016</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>185</Speed>
+    <Year>2016</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>198</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>169</Speed>
+    <Year>2011</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>172</Speed>
+    <Year>2003</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>76</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>185</Speed>
+    <Year>2001</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>89</Speed>
+    <Year>2017</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>104</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>168</Speed>
+    <Year>2015</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>9</Speed>
+    <Year>2007</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>121</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>44</Speed>
+    <Year>2014</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>120</Speed>
+    <Year>2004</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>166</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>69</Speed>
+    <Year>2017</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>137</Speed>
+    <Year>2005</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>108</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>18</Speed>
+    <Year>2005</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>39</Speed>
+    <Year>2021</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>91</Speed>
+    <Year>2003</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>34</Speed>
+    <Year>2018</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>58</Speed>
+    <Year>2005</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>65</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>182</Speed>
+    <Year>2000</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>94</Speed>
+    <Year>2014</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>106</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>50</Speed>
+    <Year>2019</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>87</Speed>
+    <Year>2012</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>131</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>26</Speed>
+    <Year>2000</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>116</Speed>
+    <Year>2023</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>152</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>72</Speed>
+    <Year>2022</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>145</Speed>
+    <Year>2021</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>147</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>95</Speed>
+    <Year>2020</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>75</Speed>
+    <Year>2002</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>104</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>45</Speed>
+    <Year>2005</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>165</Speed>
+    <Year>2014</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>31</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>136</Speed>
+    <Year>2003</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>135</Speed>
+    <Year>2010</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>139</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>33</Speed>
+    <Year>2022</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>148</Speed>
+    <Year>2018</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>33</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>131</Speed>
+    <Year>2016</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>128</Speed>
+    <Year>2018</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>151</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>129</Speed>
+    <Year>2021</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>133</Speed>
+    <Year>2021</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>126</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>70</Speed>
+    <Year>2016</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>59</Speed>
+    <Year>2018</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>55</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>82</Speed>
+    <Year>2003</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>45</Speed>
+    <Year>2018</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>34</Speed>
+    <Year>2016</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>163</Speed>
+    <Year>2015</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>76</Speed>
+    <Year>2012</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>86</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>121</Speed>
+    <Year>2004</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>14</Speed>
+    <Year>2001</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>174</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>73</Speed>
+    <Year>2012</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>159</Speed>
+    <Year>2009</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>129</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>164</Speed>
+    <Year>2019</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>68</Speed>
+    <Year>2010</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>168</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>86</Speed>
+    <Year>2003</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>34</Speed>
+    <Year>2004</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>166</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>138</Speed>
+    <Year>2002</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>149</Speed>
+    <Year>2022</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>179</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>54</Speed>
+    <Year>2023</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>114</Speed>
+    <Year>2022</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>3</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>21</Speed>
+    <Year>2011</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>65</Speed>
+    <Year>2019</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>45</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>25</Speed>
+    <Year>2005</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>108</Speed>
+    <Year>2009</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>186</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>57</Speed>
+    <Year>2017</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>136</Speed>
+    <Year>2003</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>156</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>79</Speed>
+    <Year>2022</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>109</Speed>
+    <Year>2008</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>32</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>111</Speed>
+    <Year>2004</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>186</Speed>
+    <Year>2005</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>129</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>177</Speed>
+    <Year>2005</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>52</Speed>
+    <Year>2001</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>150</Speed>
+    <Year>2000</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>80</Speed>
+    <Year>2001</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>70</Speed>
+    <Year>2009</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>140</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>74</Speed>
+    <Year>2009</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>151</Speed>
+    <Year>2020</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>50</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>45</Speed>
+    <Year>2003</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>124</Speed>
+    <Year>2015</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>46</Speed>
+    <Year>2011</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>10</Speed>
+    <Year>2024</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>65</Speed>
+    <Year>2015</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>7</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>155</Speed>
+    <Year>2008</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>69</Speed>
+    <Year>2017</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>199</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>131</Speed>
+    <Year>2001</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>102</Speed>
+    <Year>2002</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>57</Speed>
+    <Year>2000</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>74</Speed>
+    <Year>2022</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>26</Speed>
+    <Year>2008</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>166</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>115</Speed>
+    <Year>2012</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>9</Speed>
+    <Year>2008</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>121</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>94</Speed>
+    <Year>2004</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>193</Speed>
+    <Year>2020</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>122</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>113</Speed>
+    <Year>2023</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>98</Speed>
+    <Year>2014</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>21</Speed>
+    <Year>2011</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>105</Speed>
+    <Year>2003</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>117</Speed>
+    <Year>2002</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>180</Speed>
+    <Year>2019</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>151</Speed>
+    <Year>2009</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>130</Speed>
+    <Year>2023</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>183</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>196</Speed>
+    <Year>2005</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>191</Speed>
+    <Year>2018</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>81</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>155</Speed>
+    <Year>2014</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>71</Speed>
+    <Year>2005</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>1</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>88</Speed>
+    <Year>2011</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>126</Speed>
+    <Year>2018</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>27</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>191</Speed>
+    <Year>2005</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>161</Speed>
+    <Year>2024</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>146</Speed>
+    <Year>2023</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>23</Speed>
+    <Year>2023</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>164</Speed>
+    <Year>2010</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>96</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>92</Speed>
+    <Year>2015</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>185</Speed>
+    <Year>2007</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>74</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>113</Speed>
+    <Year>2021</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>38</Speed>
+    <Year>2000</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>166</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>133</Speed>
+    <Year>2002</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>96</Speed>
+    <Year>2010</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>20</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>160</Speed>
+    <Year>2022</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>133</Speed>
+    <Year>2023</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>180</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>4</Speed>
+    <Year>2013</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>64</Speed>
+    <Year>2018</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>65</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>15</Speed>
+    <Year>2017</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>156</Speed>
+    <Year>2005</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>112</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>178</Speed>
+    <Year>2015</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>92</Speed>
+    <Year>2013</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>37</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>24</Speed>
+    <Year>2013</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>42</Speed>
+    <Year>2003</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>47</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>48</Speed>
+    <Year>2003</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>112</Speed>
+    <Year>2011</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>48</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>120</Speed>
+    <Year>2020</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>9</Speed>
+    <Year>2003</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>20</Speed>
+    <Year>2009</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>23</Speed>
+    <Year>2011</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>177</Speed>
+    <Year>2016</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>10</Speed>
+    <Year>2004</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>154</Speed>
+    <Year>2018</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>190</Speed>
+    <Year>2012</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>179</Speed>
+    <Year>2018</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>62</Speed>
+    <Year>2003</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>130</Speed>
+    <Year>2015</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>177</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>57</Speed>
+    <Year>2021</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>172</Speed>
+    <Year>2014</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>55</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>73</Speed>
+    <Year>2024</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>10</Speed>
+    <Year>2019</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>160</Speed>
+    <Year>2024</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>38</Speed>
+    <Year>2013</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>191</Speed>
+    <Year>2010</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>75</Speed>
+    <Year>2003</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>192</Speed>
+    <Year>2016</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>7</Speed>
+    <Year>2015</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>197</Speed>
+    <Year>2000</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>178</Speed>
+    <Year>2007</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>66</Speed>
+    <Year>2001</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>65</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>123</Speed>
+    <Year>2020</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>140</Speed>
+    <Year>2009</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>25</Speed>
+    <Year>2015</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>183</Speed>
+    <Year>2024</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>178</Speed>
+    <Year>2018</Year>
+    <Company>ЛГ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>139</Speed>
+    <Year>2007</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>195</Speed>
+    <Year>2006</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>151</Speed>
+    <Year>2014</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>54</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>111</Speed>
+    <Year>2011</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>141</Speed>
+    <Year>2021</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>45</Speed>
+    <Year>2011</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>166</Speed>
+    <Year>2024</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>143</Speed>
+    <Year>2022</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>117</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>73</Speed>
+    <Year>2024</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>91</Speed>
+    <Year>2016</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>185</Speed>
+    <Year>2001</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>52</Speed>
+    <Year>2012</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>183</Speed>
+    <Year>2010</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>34</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>47</Speed>
+    <Year>2005</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>24</Speed>
+    <Year>2013</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>57</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>96</Speed>
+    <Year>2004</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>148</Speed>
+    <Year>2000</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>124</Speed>
+    <Year>2010</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>108</Speed>
+    <Year>2006</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>114</Speed>
+    <Year>2013</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>190</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>38</Speed>
+    <Year>2009</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>147</Speed>
+    <Year>2008</Year>
+    <Company>БЧ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>105</Speed>
+    <Year>2002</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>28</Speed>
+    <Year>2007</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>36</Speed>
+    <Year>2024</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>62</Speed>
+    <Year>2022</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>143</Speed>
+    <Year>2018</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>86</Speed>
+    <Year>2020</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>15</Speed>
+    <Year>2008</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>97</Speed>
+    <Year>2005</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>83</Speed>
+    <Year>2011</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>172</Speed>
+    <Year>2005</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>116</Speed>
+    <Year>2021</Year>
+    <CarMake>Honda</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>105</Speed>
+    <Year>2011</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>184</Speed>
+    <Year>2012</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>136</Speed>
+    <Year>2020</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>12</Speed>
+    <Year>2001</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>184</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН  - БЕРЛИН</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>48</Speed>
+    <Year>2016</Year>
+    <CarMake>Chevrolet</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>35</Speed>
+    <Year>2004</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>16</Speed>
+    <Year>2006</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>115</Speed>
+    <Year>2014</Year>
+    <CarMake>Toyota</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>88</Speed>
+    <Year>2003</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>87</Speed>
+    <Year>2020</Year>
+    <Route>ЛОНДОН  - ВЕНЕЦИЯ</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>51</Speed>
+    <Year>2019</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>115</Speed>
+    <Year>2003</Year>
+    <Company>ЛДЗ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>109</Speed>
+    <Year>2013</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>15</Speed>
+    <Year>2009</Year>
+    <CarMake>Ford</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>139</Speed>
+    <Year>2022</Year>
+    <Company>РЖД</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>15</Speed>
+    <Year>2021</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Speed>78</Speed>
+    <Year>2024</Year>
+    <CarMake>BMW</CarMake>
+  </Vehicle>
+  <Vehicle xsi:type="Train">
+    <Speed>98</Speed>
+    <Year>2020</Year>
+    <Company>ЧФМ</Company>
+  </Vehicle>
+  <Vehicle xsi:type="Express">
+    <Speed>46</Speed>
+    <Year>2017</Year>
+    <Route>ЛОНДОН - ТАУЭРСКИЕ ВОРОТА</Route>
+  </Vehicle>
+</ArrayOfVehicle>

@@ -1,0 +1,11 @@
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\bin\Debug\net8.0\VehicleLab.deps.json
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\bin\Debug\net8.0\VehicleLab.dll
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\bin\Debug\net8.0\VehicleLab.pdb
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\obj\Debug\net8.0\VehicleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\obj\Debug\net8.0\VehicleLab.AssemblyInfoInputs.cache
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\obj\Debug\net8.0\VehicleLab.AssemblyInfo.cs
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\obj\Debug\net8.0\VehicleLab.csproj.CoreCompileInputs.cache
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\obj\Debug\net8.0\VehicleLab.dll
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\obj\Debug\net8.0\refint\VehicleLab.dll
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\obj\Debug\net8.0\VehicleLab.pdb
+C:\Users\Fox\source\repos\LABS2\Lab10\VehicleLab\obj\Debug\net8.0\ref\VehicleLab.dll

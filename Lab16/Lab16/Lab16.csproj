@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Lab12">
+      <HintPath>..\..\Lab12\Lab12\bin\Debug\net8.0\Lab12.dll</HintPath>
+    </Reference>
+    <Reference Include="VehicleLib">
+      <HintPath>..\..\Lab10\VehicleLib\bin\Debug\net8.0\VehicleLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

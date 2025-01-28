@@ -1,0 +1,15 @@
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\bin\Debug\net8.0\ListLibrary.deps.json
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\bin\Debug\net8.0\ListLibrary.dll
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\bin\Debug\net8.0\ListLibrary.pdb
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\bin\Debug\net8.0\VehicleLib.dll
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\bin\Debug\net8.0\VehicleLib.pdb
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ListLibrary.csproj.AssemblyReference.cache
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ListLibrary.AssemblyInfoInputs.cache
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ListLibrary.AssemblyInfo.cs
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ListLibrary.csproj.CopyComplete
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ListLibrary.dll
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\refint\ListLibrary.dll
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ListLibrary.pdb
+C:\Users\Fox\source\repos\LABS2\Lab12\ListLibrary\obj\Debug\net8.0\ref\ListLibrary.dll
